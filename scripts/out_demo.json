@@ -1,0 +1,96 @@
+{
+ "store": {
+  "storeCode": "1450713",
+  "storeName": "麦当劳上海黄浦华旭国际大厦餐厅",
+  "beType": 1,
+  "orderType": 1,
+  "mealWindow": "夜市 17:14–21:45",
+  "address": "南京东路街道西藏中路336号",
+  "distance": 144
+ },
+ "card": {
+  "productName": "麦金卡体验卡（15天）",
+  "price": 9.9,
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  }
+ },
+ "team": [
+  {
+   "name": "阿伟",
+   "budget": 35,
+   "no_spicy": true
+  },
+  {
+   "name": "小鹿",
+   "budget": 30,
+   "max_kcal": 600
+  },
+  {
+   "name": "老陈",
+   "budget": 40,
+   "meat": "牛肉"
+  },
+  {
+   "name": "阿May",
+   "budget": 25,
+   "cold_drink": true
+  }
+ ],
+ "rows": [
+  {
+   "who": "阿伟",
+   "code": "9900015602",
+   "name": "大堡口福三件套",
+   "price": 22.9,
+   "real_price": 22.9,
+   "needs_card": false,
+   "kcal": null
+  },
+  {
+   "who": "小鹿",
+   "code": "9900000890",
+   "name": "板烧鸡腿堡四件套",
+   "price": 28.0,
+   "real_price": 57.0,
+   "needs_card": true,
+   "kcal": 391.0
+  },
+  {
+   "who": "老陈",
+   "code": "9900000888",
+   "name": "巨无霸四件套",
+   "price": 32.0,
+   "real_price": 58.5,
+   "needs_card": true,
+   "kcal": 513.0
+  },
+  {
+   "who": "阿May",
+   "code": "9900011123",
+   "name": "“辣”么快乐套餐",
+   "price": 24.0,
+   "real_price": 24.0,
+   "needs_card": false,
+   "kcal": null
+  }
+ ],
+ "accounts": {
+  "no_card": 162.4,
+  "with_card": 116.8
+ },
+ "coupon_plan": [
+  {
+   "who": "阿May",
+   "from": {
+    "name": "“辣”么快乐套餐",
+    "price": 24.0
+   },
+   "to_name": "龙焰鸡腿堡两件套",
+   "to_price": 20.48,
+   "coupon": "1024“码”力翻倍",
+   "save": 3.52
+  }
+ ]
+}

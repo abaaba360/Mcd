@@ -1,0 +1,23 @@
+[
+ {
+  "_note": "coupon_price 必须来自 calculate-price 实测：带 couponId/couponCode 算价后，该商品在 productList 里的 subtotal（分 → 元）。不要从券标题猜价格。",
+  "_warning": "couponId / couponCode 是账号凭证，仓库内一律用占位符。实际使用时从 query-my-coupons 取你自己的，不要提交进版本库。",
+  "title": "1024“码”力翻倍",
+  "couponId": "<YOUR_COUPON_ID>",
+  "couponCode": "<YOUR_COUPON_CODE>",
+  "productCode": "9900016523",
+  "productName": "龙焰鸡腿堡两件套",
+  "coupon_price": 20.48,
+  "kcal": null,
+  "_source": "2026-10-23 实测：calculate-price(items=[{9900016523, couponId, couponCode}]).data.productList[0].subtotal = 2048"
+ },
+ {
+  "_note": "这张券故意留空 coupon_price，用来验证「没实测过就不建议」的保守行为。",
+  "title": "新人专享-中杯美式7折",
+  "couponId": "<YOUR_COUPON_ID>",
+  "couponCode": "<YOUR_COUPON_CODE>",
+  "productCode": "9900000119",
+  "productName": "美式中杯",
+  "coupon_price": null
+ }
+]

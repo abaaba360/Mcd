@@ -1,0 +1,1964 @@
+{
+ "store": {
+  "storeCode": "1450713",
+  "storeName": "麦当劳上海黄浦华旭国际大厦餐厅",
+  "beType": 1,
+  "orderType": 1,
+  "mealWindow": "夜市 17:14–21:45",
+  "address": "南京东路街道西藏中路336号",
+  "distance": 144
+ },
+ "card": {
+  "productName": "麦金卡体验卡（15天）",
+  "price": 9.9,
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  }
+ },
+ "meals": [
+  {
+   "code": "9900016076",
+   "name": "“我就喜欢”鸡薯双全盒",
+   "price": 15.9,
+   "original_price": 28.5,
+   "category": "人气热卖",
+   "tags": [
+    "心形薯饼同款比心"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016075",
+   "name": "龙焰芝士棒鸡腿堡三件套",
+   "price": 29.9,
+   "original_price": 50.5,
+   "category": "人气热卖",
+   "tags": [
+    "浓郁奶香拉丝芝士"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016073",
+   "name": "龙焰鸡腿堡三件套",
+   "price": 26.9,
+   "original_price": 47.5,
+   "category": "人气热卖",
+   "tags": [
+    "韩式辣椒黄油风味"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016077",
+   "name": "蘸酱炸鸡",
+   "price": 11.9,
+   "original_price": 17.5,
+   "category": "人气热卖",
+   "tags": [
+    "韩式芝士风味酱上新"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521956",
+   "name": "麦当劳限定丝巾",
+   "price": 34.9,
+   "original_price": 39.9,
+   "category": "人气热卖",
+   "tags": [],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "521952",
+   "name": "龙焰鸡腿堡",
+   "price": 15.9,
+   "original_price": 24.0,
+   "category": "人气热卖",
+   "tags": [
+    "韩式辣椒黄油风味"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": "促销优惠",
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016566",
+   "name": "心形薯饼8块",
+   "price": 9.9,
+   "original_price": 22.5,
+   "category": "人气热卖",
+   "tags": [
+    "限时特惠"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": "促销优惠",
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016311",
+   "name": "龙焰美味四件套",
+   "price": 29.0,
+   "original_price": 57.0,
+   "category": "人气热卖",
+   "tags": [],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900004064",
+   "name": "精选单人餐三件套",
+   "price": 34.5,
+   "original_price": 46.0,
+   "category": "人气热卖",
+   "tags": [
+    "爆款"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521950",
+   "name": "蓝莓爆爆珠麦旋风",
+   "price": 16.5,
+   "original_price": 16.5,
+   "category": "人气热卖",
+   "tags": [
+    "蓝莓"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900014092",
+   "name": "麦当劳奶昔",
+   "price": 15.0,
+   "original_price": 22.0,
+   "category": "人气热卖",
+   "tags": [
+    "奶昔回归"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900004236",
+   "name": "人气超值四件套随心选",
+   "price": 28.0,
+   "original_price": 57.0,
+   "category": "精选单人餐",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900010110",
+   "name": "鱼牛汉堡四件套随心选",
+   "price": 32.0,
+   "original_price": 58.5,
+   "category": "精选单人餐",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900006957",
+   "name": "安格斯厚牛堡四件套随心选",
+   "price": 37.0,
+   "original_price": 66.0,
+   "category": "精选单人餐",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "521953",
+   "name": "龙焰芝士棒鸡腿堡",
+   "price": 27.0,
+   "original_price": 27.0,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "上新",
+    "浓郁奶香拉丝芝士"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016310",
+   "name": "龙焰芝士棒鸡腿堡四件套",
+   "price": 32.0,
+   "original_price": 57.0,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900016309",
+   "name": "龙焰鸡腿堡四件套",
+   "price": 29.0,
+   "original_price": 57.0,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900000891",
+   "name": "麦辣鸡腿堡四件套",
+   "price": 28.0,
+   "original_price": 57.0,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900000890",
+   "name": "板烧鸡腿堡四件套",
+   "price": 28.0,
+   "original_price": 57.0,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": 391.0,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900005462",
+   "name": "板烧鸡腿堡三件套",
+   "price": 34.5,
+   "original_price": 47.0,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "套餐",
+    "新升级",
+    "更多汁"
+   ],
+   "can_with_order": false,
+   "kcal": 391.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005456",
+   "name": "麦辣鸡腿汉堡三件套",
+   "price": 33.5,
+   "original_price": 46.0,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "套餐",
+    "立省10.5元起"
+   ],
+   "can_with_order": false,
+   "kcal": 485.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005453",
+   "name": "麦香鸡套餐",
+   "price": 28.0,
+   "original_price": 40.5,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "套餐",
+    "立省10.5元起"
+   ],
+   "can_with_order": false,
+   "kcal": 369.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "1440",
+   "name": "麦辣鸡腿汉堡",
+   "price": 22.5,
+   "original_price": 22.5,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "单品",
+    "人气经典",
+    "外酥里嫩"
+   ],
+   "can_with_order": false,
+   "kcal": 485.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "1406",
+   "name": "板烧鸡腿堡",
+   "price": 23.5,
+   "original_price": 23.5,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "单品",
+    "板烧滋滋",
+    "多汁惹味"
+   ],
+   "can_with_order": false,
+   "kcal": 391.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "1450",
+   "name": "麦香鸡",
+   "price": 17.0,
+   "original_price": 17.0,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "单品"
+   ],
+   "can_with_order": false,
+   "kcal": 369.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900008746",
+   "name": "鸡肉堡单品精选",
+   "price": 23.5,
+   "original_price": 23.5,
+   "category": "鸡肉汉堡/卷",
+   "tags": [
+    "单品",
+    "人气"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900006332",
+   "name": "薄皮V翅双拼十翅",
+   "price": 49.9,
+   "original_price": 77.0,
+   "category": "小食拼盘/多人餐",
+   "tags": [
+    "小食拼盘",
+    "超值"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900015730",
+   "name": "BFF四宫格小食盘",
+   "price": 39.8,
+   "original_price": 54.5,
+   "category": "小食拼盘/多人餐",
+   "tags": [
+    "小食拼盘",
+    "随心拼"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900004066",
+   "name": "堡堡随心拼（7件任选）",
+   "price": 72.5,
+   "original_price": 101.5,
+   "category": "小食拼盘/多人餐",
+   "tags": [
+    "小食拼盘",
+    "万种组合"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900011056",
+   "name": "全明星双人分享餐八件套",
+   "price": 49.9,
+   "original_price": 114.5,
+   "category": "小食拼盘/多人餐",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900005321",
+   "name": "BFF四宫格小食盘双人餐",
+   "price": 62.9,
+   "original_price": 122.5,
+   "category": "小食拼盘/多人餐",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900016078",
+   "name": "蘸酱麦麦脆汁鸡",
+   "price": 11.9,
+   "original_price": 18.0,
+   "category": "蘸酱炸鸡",
+   "tags": [
+    "蘸酱炸鸡",
+    "韩式芝士风味酱上新"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900015729",
+   "name": "蘸酱BFF四宫格小食盘",
+   "price": 42.8,
+   "original_price": 57.5,
+   "category": "蘸酱炸鸡",
+   "tags": [
+    "蘸酱炸鸡",
+    "蘸酱炸鸡新吃法"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521966",
+   "name": "韩式烟熏芝士风味酱",
+   "price": 3.0,
+   "original_price": 3.0,
+   "category": "蘸酱炸鸡",
+   "tags": [
+    "蘸酱",
+    "韩式风味",
+    "浓郁芝香"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521797",
+   "name": "北美招牌牧场酱",
+   "price": 3.0,
+   "original_price": 3.0,
+   "category": "蘸酱炸鸡",
+   "tags": [
+    "蘸酱",
+    "使用动物奶油"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900013304",
+   "name": "人气经典随心配",
+   "price": 14.9,
+   "original_price": 14.9,
+   "category": "随心配1+1",
+   "tags": [
+    "超值百种组合随心配"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900015568",
+   "name": "精选超值随心配",
+   "price": 13.9,
+   "original_price": 13.9,
+   "category": "随心配1+1",
+   "tags": [
+    "超值百种组合随心配"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900015602",
+   "name": "大堡口福三件套",
+   "price": 22.9,
+   "original_price": 47.0,
+   "category": "大堡口福单人餐",
+   "tags": [
+    "大口吃肉好快乐"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900000888",
+   "name": "巨无霸四件套",
+   "price": 32.0,
+   "original_price": 58.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": 513.0,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900000886",
+   "name": "不素之霸双层牛堡四件套",
+   "price": 32.0,
+   "original_price": 58.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": 493.0,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900000885",
+   "name": "培根蔬萃双层牛堡四件套",
+   "price": 32.0,
+   "original_price": 58.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": 442.0,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900000893",
+   "name": "双层深海鳕鱼堡四件套",
+   "price": 32.0,
+   "original_price": 58.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": 485.0,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900005411",
+   "name": "不素之霸双层牛堡三件套",
+   "price": 37.5,
+   "original_price": 50.0,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "套餐",
+    "100%纯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 493.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005466",
+   "name": "巨无霸三件套",
+   "price": 36.5,
+   "original_price": 49.0,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "套餐",
+    "100%纯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 513.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005468",
+   "name": "培根蔬萃双层牛堡三件套",
+   "price": 35.5,
+   "original_price": 48.0,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "套餐",
+    "100%纯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 442.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005413",
+   "name": "双层深海鳕鱼堡三件套",
+   "price": 35.0,
+   "original_price": 47.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "套餐",
+    "麦香鱼系列"
+   ],
+   "can_with_order": false,
+   "kcal": 485.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005460",
+   "name": "麦香鱼套餐",
+   "price": 33.5,
+   "original_price": 46.0,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "套餐",
+    "麦香鱼系列"
+   ],
+   "can_with_order": false,
+   "kcal": 325.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005464",
+   "name": "双层吉士汉堡套餐",
+   "price": 34.0,
+   "original_price": 46.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "套餐",
+    "100%纯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 429.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005449",
+   "name": "吉士汉堡包套餐",
+   "price": 26.0,
+   "original_price": 38.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "套餐",
+    "100%纯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "1100",
+   "name": "巨无霸",
+   "price": 25.5,
+   "original_price": 25.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "单品",
+    "100%纯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 513.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900003586",
+   "name": "双层深海鳕鱼堡",
+   "price": 24.0,
+   "original_price": 24.0,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "单品",
+    "麦香鱼系列"
+   ],
+   "can_with_order": false,
+   "kcal": 485.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "1600",
+   "name": "麦香鱼",
+   "price": 22.5,
+   "original_price": 22.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "单品",
+    "麦香鱼系列"
+   ],
+   "can_with_order": false,
+   "kcal": 325.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "4648",
+   "name": "不素之霸双层牛堡",
+   "price": 26.5,
+   "original_price": 26.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "单品",
+    "100%纯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 493.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "1106",
+   "name": "培根蔬萃双层牛堡",
+   "price": 24.5,
+   "original_price": 24.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "单品",
+    "100%纯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 442.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "1120",
+   "name": "双层吉士汉堡",
+   "price": 23.0,
+   "original_price": 23.0,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "单品",
+    "100%纯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 429.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521316",
+   "name": "高达吉士双牛堡",
+   "price": 22.5,
+   "original_price": 22.5,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "单品",
+    "100%纯牛肉",
+    "人气"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900008747",
+   "name": "牛肉堡单品精选",
+   "price": 14.0,
+   "original_price": 14.0,
+   "category": "巨无霸牛鱼肉堡",
+   "tags": [
+    "单品",
+    "100%纯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900000881",
+   "name": "培根安格斯厚牛堡四件套",
+   "price": 37.0,
+   "original_price": 66.0,
+   "category": "安格斯MAX厚牛堡",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": 707.0,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900000882",
+   "name": "芝士安格斯厚牛堡四件套",
+   "price": 37.0,
+   "original_price": 66.0,
+   "category": "安格斯MAX厚牛堡",
+   "tags": [
+    "麦金卡"
+   ],
+   "can_with_order": true,
+   "kcal": 696.0,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "9900005428",
+   "name": "培根安格斯厚牛堡三件套",
+   "price": 45.5,
+   "original_price": 58.0,
+   "category": "安格斯MAX厚牛堡",
+   "tags": [
+    "套餐",
+    "100%安格斯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 707.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005430",
+   "name": "芝士安格斯厚牛堡三件套",
+   "price": 42.5,
+   "original_price": 55.0,
+   "category": "安格斯MAX厚牛堡",
+   "tags": [
+    "套餐",
+    "100%安格斯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 696.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "511781",
+   "name": "培根安格斯厚牛堡",
+   "price": 34.5,
+   "original_price": 34.5,
+   "category": "安格斯MAX厚牛堡",
+   "tags": [
+    "单品",
+    "100%安格斯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 707.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "511782",
+   "name": "芝士安格斯厚牛堡",
+   "price": 31.5,
+   "original_price": 31.5,
+   "category": "安格斯MAX厚牛堡",
+   "tags": [
+    "单品",
+    "100%安格斯牛肉"
+   ],
+   "can_with_order": false,
+   "kcal": 696.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521881",
+   "name": "马来咖喱风味薄皮肉骨鸡3块",
+   "price": 15.5,
+   "original_price": 15.5,
+   "category": "炸鸡",
+   "tags": [
+    "上新",
+    "浓郁咖喱飘香"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005451",
+   "name": "麦辣鸡翅4块套餐",
+   "price": 36.5,
+   "original_price": 49.0,
+   "category": "炸鸡",
+   "tags": [
+    "套餐",
+    "立省10.5元起"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900004835",
+   "name": "麦乐鸡套餐",
+   "price": 25.0,
+   "original_price": 37.5,
+   "category": "炸鸡",
+   "tags": [
+    "套餐",
+    "立省10.5元起"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "1700",
+   "name": "麦辣鸡翅",
+   "price": 15.0,
+   "original_price": 15.0,
+   "category": "炸鸡",
+   "tags": [
+    "单品",
+    "黄金酥脆",
+    "鲜嫩多汁"
+   ],
+   "can_with_order": false,
+   "kcal": 224.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "520445",
+   "name": "薄皮焦香V翅",
+   "price": 16.0,
+   "original_price": 16.0,
+   "category": "炸鸡",
+   "tags": [
+    "单品",
+    "人气"
+   ],
+   "can_with_order": false,
+   "kcal": 192.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "1401",
+   "name": "麦乐鸡",
+   "price": 14.0,
+   "original_price": 14.0,
+   "category": "炸鸡",
+   "tags": [
+    "单品",
+    "人气"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521156",
+   "name": "那么大鸡排（椒盐风味）",
+   "price": 14.0,
+   "original_price": 14.0,
+   "category": "炸鸡",
+   "tags": [
+    "单品"
+   ],
+   "can_with_order": false,
+   "kcal": 385.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005432",
+   "name": "麦麦脆汁鸡1块",
+   "price": 15.0,
+   "original_price": 15.0,
+   "category": "炸鸡",
+   "tags": [
+    "单品"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521954",
+   "name": "麦当劳联名复古棒球帽",
+   "price": 34.9,
+   "original_price": 39.9,
+   "category": "小食甜品/其他",
+   "tags": [
+    "上新"
+   ],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "521986",
+   "name": "马苏里拉拉丝芝士条",
+   "price": 11.0,
+   "original_price": 15.0,
+   "category": "小食甜品/其他",
+   "tags": [
+    "上新",
+    "趁热拉丝",
+    "奶香醇厚"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": "促销优惠",
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016082",
+   "name": "心形薯饼5块",
+   "price": 14.5,
+   "original_price": 14.5,
+   "category": "小食甜品/其他",
+   "tags": [
+    "上新",
+    "口口酥脆",
+    "含一份蘸酱"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521951",
+   "name": "灰焰圆筒",
+   "price": 5.0,
+   "original_price": 5.0,
+   "category": "小食甜品/其他",
+   "tags": [
+    "上新",
+    "灰焰"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521929",
+   "name": "旋旋水手帽",
+   "price": 48.8,
+   "original_price": 48.8,
+   "category": "小食甜品/其他",
+   "tags": [
+    "上新",
+    "汪苏泷限量周边"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521946",
+   "name": "旋旋星愿贴",
+   "price": 3.9,
+   "original_price": 3.9,
+   "category": "小食甜品/其他",
+   "tags": [
+    "上新",
+    "汪苏泷限量周边"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521914",
+   "name": "“葱不求人“按摩捶痒痒挠",
+   "price": 14.9,
+   "original_price": 14.9,
+   "category": "小食甜品/其他",
+   "tags": [
+    "上新",
+    "既可捶背",
+    "又可挠痒"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521917",
+   "name": "泷愿成真麦旋风——大米风味",
+   "price": 16.5,
+   "original_price": 16.5,
+   "category": "小食甜品/其他",
+   "tags": [
+    "上新",
+    "快乐旋开吃"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "4810",
+   "name": "薯条",
+   "price": 13.5,
+   "original_price": 13.5,
+   "category": "小食甜品/其他",
+   "tags": [
+    "小食"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "514782",
+   "name": "脆脆薯条",
+   "price": 16.0,
+   "original_price": 16.0,
+   "category": "小食甜品/其他",
+   "tags": [
+    "小食"
+   ],
+   "can_with_order": false,
+   "kcal": 279.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "4437",
+   "name": "玉米杯",
+   "price": 13.0,
+   "original_price": 13.0,
+   "category": "小食甜品/其他",
+   "tags": [
+    "小食"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "6102",
+   "name": "苹果片",
+   "price": 7.0,
+   "original_price": 7.0,
+   "category": "小食甜品/其他",
+   "tags": [
+    "小食"
+   ],
+   "can_with_order": false,
+   "kcal": 32.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900008754",
+   "name": "经典麦旋风",
+   "price": 15.5,
+   "original_price": 15.5,
+   "category": "小食甜品/其他",
+   "tags": [
+    "冰淇淋",
+    "第二份半价"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900008745",
+   "name": "新地",
+   "price": 12.0,
+   "original_price": 12.0,
+   "category": "小食甜品/其他",
+   "tags": [
+    "冰淇淋",
+    "第二份半价"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "515837",
+   "name": "圆筒冰淇淋",
+   "price": 5.0,
+   "original_price": 5.0,
+   "category": "小食甜品/其他",
+   "tags": [
+    "冰淇淋",
+    "第二份半价"
+   ],
+   "can_with_order": false,
+   "kcal": 93.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900008752",
+   "name": "派",
+   "price": 8.5,
+   "original_price": 8.5,
+   "category": "小食甜品/其他",
+   "tags": [
+    "派",
+    "第二份优惠"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005422",
+   "name": "汉堡开心乐园餐",
+   "price": 23.5,
+   "original_price": 23.5,
+   "category": "开心乐园",
+   "tags": [
+    "开心乐园餐",
+    "童年童款"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900005421",
+   "name": "鱼排堡开心乐园餐",
+   "price": 24.0,
+   "original_price": 24.0,
+   "category": "开心乐园",
+   "tags": [
+    "开心乐园餐",
+    "童年童款"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016057",
+   "name": "汉堡开心乐园餐",
+   "price": 23.5,
+   "original_price": 23.5,
+   "category": "开心乐园",
+   "tags": [
+    "开心乐园餐",
+    "童年童款"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016058",
+   "name": "鱼排堡开心乐园餐",
+   "price": 24.0,
+   "original_price": 24.0,
+   "category": "开心乐园",
+   "tags": [
+    "开心乐园餐",
+    "童年童款"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016056",
+   "name": "麦乐鸡开心乐园餐",
+   "price": 25.0,
+   "original_price": 25.0,
+   "category": "开心乐园",
+   "tags": [
+    "开心乐园餐",
+    "童年童款"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900016055",
+   "name": "开心亲子双人餐",
+   "price": 59.5,
+   "original_price": 59.5,
+   "category": "开心乐园",
+   "tags": [
+    "开心亲子餐",
+    "童年童款"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "515946",
+   "name": "浓浓黑巧（冰/热）",
+   "price": 13.9,
+   "original_price": 21.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "限定特惠"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": "促销优惠",
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "515955",
+   "name": "浓浓燕麦黑巧（冰/热）",
+   "price": 15.9,
+   "original_price": 23.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "限定特惠"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": "促销优惠",
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "507411",
+   "name": "麦咖啡™美式",
+   "price": 11.9,
+   "original_price": 19.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "限定特惠"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": "促销优惠",
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "507409",
+   "name": "麦咖啡™奶铁",
+   "price": 13.9,
+   "original_price": 21.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "限定特惠",
+    "更奶更浓"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": "促销优惠",
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "510479",
+   "name": "燕麦奶铁",
+   "price": 9.9,
+   "original_price": 23.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "麦咖啡™咖啡"
+   ],
+   "can_with_order": true,
+   "kcal": null,
+   "discount_type": "随单购麦金卡优惠",
+   "with_order": {
+    "membershipCode": "106",
+    "specId": "880"
+   },
+   "needs_card": true
+  },
+  {
+   "code": "507387",
+   "name": "卡布奇诺",
+   "price": 21.0,
+   "original_price": 21.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "麦咖啡™咖啡"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "514851",
+   "name": "咖啡阿芙佳朵",
+   "price": 15.0,
+   "original_price": 15.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "麦咖啡™咖啡"
+   ],
+   "can_with_order": false,
+   "kcal": 139.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "520689",
+   "name": "鲜萃咖啡",
+   "price": 9.5,
+   "original_price": 9.5,
+   "category": "麦咖啡™",
+   "tags": [
+    "麦咖啡™咖啡",
+    "鲜萃咖啡"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "507389",
+   "name": "浓缩咖啡",
+   "price": 15.0,
+   "original_price": 15.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "麦咖啡™咖啡"
+   ],
+   "can_with_order": false,
+   "kcal": 13.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "514850",
+   "name": "抹茶阿芙佳朵",
+   "price": 15.0,
+   "original_price": 15.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "其他"
+   ],
+   "can_with_order": false,
+   "kcal": 147.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "507394",
+   "name": "牛奶",
+   "price": 19.0,
+   "original_price": 19.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "其他"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "510488",
+   "name": "燕麦奶",
+   "price": 21.0,
+   "original_price": 21.0,
+   "category": "麦咖啡™",
+   "tags": [
+    "其他"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900011128",
+   "name": "“堡”你欢乐套餐",
+   "price": 28.0,
+   "original_price": 42.5,
+   "category": "500大卡套餐",
+   "tags": [
+    "粉丝之选"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900011121",
+   "name": "“苹”水相“鱼”套餐",
+   "price": 36.0,
+   "original_price": 54.0,
+   "category": "500大卡套餐",
+   "tags": [
+    "粉丝之选"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900011126",
+   "name": "酥脆无双套餐",
+   "price": 20.0,
+   "original_price": 20.0,
+   "category": "500大卡套餐",
+   "tags": [],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900011123",
+   "name": "“辣”么快乐套餐",
+   "price": 24.0,
+   "original_price": 36.5,
+   "category": "500大卡套餐",
+   "tags": [],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900009245",
+   "name": "牛气满满套餐",
+   "price": 35.0,
+   "original_price": 47.5,
+   "category": "500大卡套餐",
+   "tags": [],
+   "can_with_order": false,
+   "kcal": 495.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900009242",
+   "name": "“苹板”支撑Pro套餐",
+   "price": 39.5,
+   "original_price": 53.5,
+   "category": "500大卡套餐",
+   "tags": [],
+   "can_with_order": false,
+   "kcal": 476.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "521817",
+   "name": "【美汁源】“多汁柠柠”",
+   "price": 12.0,
+   "original_price": 12.0,
+   "category": "饮品",
+   "tags": [
+    "上新",
+    "清爽上新"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "9900008751",
+   "name": "可乐",
+   "price": 9.5,
+   "original_price": 9.5,
+   "category": "饮品",
+   "tags": [
+    "冷饮"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "3010",
+   "name": "雪碧",
+   "price": 9.5,
+   "original_price": 9.5,
+   "category": "饮品",
+   "tags": [
+    "冷饮"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "515520",
+   "name": "怡泉+C",
+   "price": 11.5,
+   "original_price": 11.5,
+   "category": "饮品",
+   "tags": [
+    "冷饮"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "2430",
+   "name": "【美汁源】“黄金橙橙”",
+   "price": 13.0,
+   "original_price": 13.0,
+   "category": "饮品",
+   "tags": [
+    "冷饮"
+   ],
+   "can_with_order": false,
+   "kcal": 165.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "515280",
+   "name": "阳光柠檬红茶",
+   "price": 9.5,
+   "original_price": 9.5,
+   "category": "饮品",
+   "tags": [
+    "冷饮"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "6352",
+   "name": "阳光橙麦炫酷",
+   "price": 13.0,
+   "original_price": 13.0,
+   "category": "饮品",
+   "tags": [
+    "冷饮"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "3755",
+   "name": "纯牛奶(盒装)",
+   "price": 10.5,
+   "original_price": 10.5,
+   "category": "饮品",
+   "tags": [
+    "冷饮"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "6362",
+   "name": "100% 苹果汁(盒装)",
+   "price": 11.5,
+   "original_price": 11.5,
+   "category": "饮品",
+   "tags": [
+    "冷饮"
+   ],
+   "can_with_order": false,
+   "kcal": null,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "3757",
+   "name": "纯悦",
+   "price": 7.5,
+   "original_price": 7.5,
+   "category": "饮品",
+   "tags": [
+    "冷饮"
+   ],
+   "can_with_order": false,
+   "kcal": 0.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  },
+  {
+   "code": "3505",
+   "name": "锡兰红茶",
+   "price": 11.5,
+   "original_price": 11.5,
+   "category": "饮品",
+   "tags": [
+    "热饮"
+   ],
+   "can_with_order": false,
+   "kcal": 2.0,
+   "discount_type": null,
+   "with_order": null,
+   "needs_card": false
+  }
+ ]
+}

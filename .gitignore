@@ -1,0 +1,21 @@
+# 凭据与本地配置：绝不入库
+mcp_token.txt
+.env
+.env.*
+coupons.local.json
+config.local.json
+
+# 系统与缓存
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 密钥类
+*.pem
+*.key
+*.p12
+
+# 本地输出
+out.json
+card.png
